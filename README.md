@@ -6,4 +6,3 @@ It is so cool!
 First commit on testing branch
 ## Testing Branch Heading
 - First line in testing branch heading
-woo!
