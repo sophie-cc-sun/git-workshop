@@ -5,4 +5,5 @@ It is so cool!
 1. This is my first number bullet
 First commit on testing branch
 ## Testing Branch Heading
-- First line in testing branch heading- Second line under testing header
+- First line in testing branch heading
+- Second line under testing header
